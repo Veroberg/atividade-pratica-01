@@ -23,7 +23,7 @@ print("Preço total: R$", round(preco_total, 2))
 print("-" * 20)
 
 # Código interativo:
-print("Opção para o professor testar outros valores:")
+print("Opção para testar outros valores:")
 produto = input("Digite o nome do produto: ")
 preco_unitario = float(input("Digite o preço unitário (ex: 12.40): "))
 quantidade = int(input("Digite a quantidade: "))
