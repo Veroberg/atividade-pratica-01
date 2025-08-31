@@ -19,7 +19,7 @@ print("DIFERENCA =", DIFERENCA)
 print("-" * 20)
 
 # Código interativo:
-print("Opção para o professor testar outros valores:")
+print("Opção para testar outros valores:")
 A = int(input("Digite o valor de A: "))
 B = int(input("Digite o valor de B: "))
 C = int(input("Digite o valor de C: "))
