@@ -27,7 +27,7 @@ print("Volume =", volume, "cm³")
 print("-" * 20)
 
 # Código interativo:
-print("Opção para o professor testar outros valores:")
+print("Opção para testar outros valores:")
 comprimento = int(input("Digite o comprimento (cm): "))
 largura = int(input("Digite a largura (cm): "))
 altura = int(input("Digite a altura (cm): "))
