@@ -44,3 +44,6 @@ Esta é a primeira atividade prática da jornada de aprendizado em Python, conte
 **Verônica Bergelino**  
 - [LinkedIn](https://linkedin.com/in/veronica-bergelino)
 - [GitHub](https://github.com/Verolberg)
+- ---
+
+*Primeiros passos na programação Python, estabelecendo uma base sólida para tópicos mais avançados.*
